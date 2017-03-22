@@ -1,0 +1,24 @@
+Classes
+	RandomSeed
+	ProgramData
+	DataContainer
+	WorldData
+	Size
+		Set Dimensions
+		Get Dimensions
+		Set Scaling
+		Get Scaling
+		Set Scale
+		Get Scale
+		Set World Size
+		Get World Size
+	LandMass
+		Input
+			LandSeaRatio
+			NumContinents
+			IslandProbability/NumIslands
+			PoleLandSea
+			ContinentSpread
+			ContinentShape
+		LandBlockGenerator
+		CoastlineGenerator
